@@ -51,3 +51,6 @@ If you cannot compile open src/Makefile.am and make sure the library paths are c
 
 ## Macintosh
 I do not have a Macintosh computer so I don't know how to compile it nor do I know if it's possible, but it should be relatively the same as the Linux instructions. If anyone can write compilation instructions for the Mac, let me know.
+
+# License
+Collab VM Server, as well as the Web App and Admin Web App are licensed under the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
