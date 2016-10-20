@@ -3,6 +3,8 @@ This repository contains all the necessary source files to compile the collab-vm
 
 Collab VM was coded and written by Cosmic Sans, Dartz, and Geodude.
 
+Live Demo: http://computernewb.com/collab-vm/
+
 # How to use
 To start collab-vm-server make sure it has executable permissions and type ./collab-vm-server (port) (HTTP Directory (optional)). For instance, if you want to start collab-vm-server on port 6004 with the directory for the HTML files in a folder called "collabvm" you'd type ./collab-vm-server 6004 collabvm 
 
